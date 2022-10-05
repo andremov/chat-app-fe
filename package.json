@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "sass": "^1.55.0",
+    "socket.io-client": "^4.5.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
@@ -28,5 +32,5 @@
   "bugs": {
     "url": "https://github.com/andremov/chat-app-fe/issues"
   },
-  "homepage": "https://github.com/andremov/chat-app-fe#readme",
+  "homepage": "https://github.com/andremov/chat-app-fe#readme"
 }
