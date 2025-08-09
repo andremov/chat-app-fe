@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import Chat from './components/chat'
-import Login from './components/Login'
+import Login from './components/login'
 import io from 'socket.io-client';
 
 let socket;
